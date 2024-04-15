@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/stackline-demo/static/css/main.fb4a22a2.css",
-    "main.js": "/stackline-demo/static/js/main.106c94df.js",
+    "main.js": "/stackline-demo/static/js/main.3b8e9638.js",
     "static/js/453.b319b8f0.chunk.js": "/stackline-demo/static/js/453.b319b8f0.chunk.js",
     "static/media/remixicon.svg?t=1708865856766": "/stackline-demo/static/media/remixicon.7735fab8dbf8ff78afe9.svg",
     "static/media/remixicon.eot?t=1708865856766": "/stackline-demo/static/media/remixicon.8542c1bb279bcd77063a.eot",
@@ -13,11 +13,11 @@
     "static/media/stackline_logo.svg": "/stackline-demo/static/media/stackline_logo.5935081bd899ecfe02395699e768f84e.svg",
     "index.html": "/stackline-demo/index.html",
     "main.fb4a22a2.css.map": "/stackline-demo/static/css/main.fb4a22a2.css.map",
-    "main.106c94df.js.map": "/stackline-demo/static/js/main.106c94df.js.map",
+    "main.3b8e9638.js.map": "/stackline-demo/static/js/main.3b8e9638.js.map",
     "453.b319b8f0.chunk.js.map": "/stackline-demo/static/js/453.b319b8f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb4a22a2.css",
-    "static/js/main.106c94df.js"
+    "static/js/main.3b8e9638.js"
   ]
 }
