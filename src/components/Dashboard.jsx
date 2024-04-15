@@ -4,19 +4,22 @@ import Card from './Card'
 import TableComponent from './TableComponent'
 import ChartComponent from './ChartComponent'
 import LineChart from './LineChart'
+import data1 from '../stackline_frontend_assessment_data_2021.json'
 
 function Dashboard() {
     const [data, setData] = useState(null)
-
+    
     const fetchData = () => {
-        fetch('http://localhost:4000/data')
-            .then(res => {
-                return res.json();
-            })
-            .then(dataJson => {
-                setData(dataJson)
-            })
-            .catch(e => console.log(e.message));
+        setData(data1.data);
+        // fetch('https://localhost:4000/data')
+        //     .then(res => {
+        //         console.log(res.json())
+        //         return res.json();
+        //     })
+        //     .then(dataJson => {
+        //         setData(dataJson)
+        //     })
+        //     .catch(e => console.log(e.message));
     }
 
     useEffect(() => {
